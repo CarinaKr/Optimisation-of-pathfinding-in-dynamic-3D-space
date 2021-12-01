@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e99da7a63d16bb04baa46a1bdff7bd7f, type: 3}
+  m_Name: VisualizationHelper
+  m_EditorClassIdentifier: 
+  expandedColors:
+  - {r: 0.014198661, g: 1, b: 0, a: 1}
+  - {r: 0.89986145, g: 1, b: 0, a: 1}
+  - {r: 1, g: 0.60727984, b: 0, a: 1}
+  - {r: 1, g: 0, b: 0, a: 1}
+  - {r: 1, g: 0, b: 0.49685907, a: 1}
+  - {r: 0.6542239, g: 0, b: 1, a: 1}
+  - {r: 0, g: 0.06900811, b: 1, a: 1}
+  - {r: 0, g: 0.5200348, b: 1, a: 1}
+  - {r: 0, g: 0.981899, b: 1, a: 1}
+  - {r: 0, g: 1, b: 0.6460881, a: 1}

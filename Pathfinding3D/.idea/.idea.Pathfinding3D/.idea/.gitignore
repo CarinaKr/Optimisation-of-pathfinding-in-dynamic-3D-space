@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/modules.xml
+/.idea.Pathfinding3D.iml
+/contentModel.xml
+# Datasource local storage ignored files
+/../../../../../../../:\github\pathfindingdynamic3d\Pathfinding3D\.idea\.idea.Pathfinding3D\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

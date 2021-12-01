@@ -1,0 +1,235 @@
+distanceTraveled:0A* with epsilon 1 and search graph HYBRID
+distanceTraveled:0Theta* with epsilon 1, fast = False and search graph HYBRID
+distanceTraveled:0A* with epsilon 1
+distanceTraveled:148.0028:total algorithm time: 38599 : total expanded: 5657308
+distanceTraveled:1.410142:total algorithm time: 331 : total expanded: 0
+distanceTraveled:0A* with epsilon 1
+distanceTraveled:148.8808:total algorithm time: 35221 : total expanded: 5702009
+distanceTraveled:1.386268:total algorithm time: 323 : total expanded: 0
+distanceTraveled:0A* with epsilon 1
+distanceTraveled:149.2786:total algorithm time: 38829 : total expanded: 5627677
+distanceTraveled:1.3643:total algorithm time: 318 : total expanded: 4
+distanceTraveled:0A* with epsilon 1
+distanceTraveled:141.047:total algorithm time: 35058 : total expanded: 5581914
+distanceTraveled:1.47182:total algorithm time: 338 : total expanded: 1
+distanceTraveled:0.9480613:total algorithm time: 2829 : total expanded: 3
+distanceTraveled:0.9201313:total algorithm time: 1411 : total expanded: 4
+distanceTraveled:0.883211:total algorithm time: 2294 : total expanded: 6
+distanceTraveled:0.8744218:total algorithm time: 801 : total expanded: 6
+distanceTraveled:0.88063:total algorithm time: 808 : total expanded: 9
+distanceTraveled:0.8938993:total algorithm time: 778 : total expanded: 9
+distanceTraveled:0.8957251:total algorithm time: 761 : total expanded: 10
+distanceTraveled:0.8546145:total algorithm time: 725 : total expanded: 12
+distanceTraveled:0.8956391:total algorithm time: 709 : total expanded: 13
+distanceTraveled:0.8955554:total algorithm time: 694 : total expanded: 15
+distanceTraveled:0.8885367:total algorithm time: 657 : total expanded: 16
+distanceTraveled:0.9011488:total algorithm time: 765 : total expanded: 18
+distanceTraveled:0.905522:total algorithm time: 762 : total expanded: 18
+distanceTraveled:0.9224604:total algorithm time: 731 : total expanded: 21
+distanceTraveled:0.8991647:total algorithm time: 848 : total expanded: 21
+distanceTraveled:0A* with epsilon 1 and search graph HYBRID
+distanceTraveled:108.2398:total algorithm time: 23919 : total expanded: 4143008
+distanceTraveled:0Theta* with epsilon 1
+distanceTraveled:153.7584:total algorithm time: 40032 : total expanded: 2806737
+distanceTraveled:0Reverse MT-D* Lite with epsilon 1 and Basic MT=False
+:total algorithm time: 0 : total expanded: 0
+distanceTraveled:157.6362:total algorithm time: 46406 : total expanded: 859764
+distanceTraveled:0Jump point A* with epsilon 1
+distanceTraveled:37.37786:total algorithm time: 15043 : total expanded: 618022
+distanceTraveled:0A* with epsilon 1
+distanceTraveled:0A* with epsilon 1
+distanceTraveled:0A* with epsilon 1
+distanceTraveled:0A* with epsilon 1
+distanceTraveled:143.1756:total algorithm time: 3895 : total expanded: 5535172
+distanceTraveled:147.6292:total algorithm time: 3254 : total expanded: 5098921
+distanceTraveled:0A* with epsilon 1
+distanceTraveled:0A* with epsilon 1 and search graph HYBRID
+distanceTraveled:0A* with epsilon 1
+distanceTraveled:0A* with epsilon 1
+distanceTraveled:0A* with epsilon 1
+distanceTraveled:145.0527:total algorithm time: 193736 : total expanded: 5316388
+distanceTraveled:1.342172:total algorithm time: 499 : total expanded: 2
+distanceTraveled:0A* with epsilon 1
+distanceTraveled:9.377262distanceTraveled:0A* with epsilon 1
+distanceTraveled:150.4579:total algorithm time: 231204 : total expanded: 5523458
+distanceTraveled:1.995607:total algorithm time: 315296 : total expanded: 4
+distanceTraveled:1.333333:total algorithm time: 3559 : total expanded: 3
+distanceTraveled:0A* with epsilon 1
+distanceTraveled:0A* with epsilon 1
+distanceTraveled:142.7418:total algorithm time: 35813 : total expanded: 5501536
+distanceTraveled:0.7197016:total algorithm time: 324 : total expanded: 1
+distanceTraveled:0A* with epsilon 1
+distanceTraveled:0A* with epsilon 1
+distanceTraveled:144.712:total algorithm time: 35655 : total expanded: 5576677
+distanceTraveled:0.6856565:total algorithm time: 321 : total expanded: 3
+distanceTraveled:0A* with epsilon 1
+distanceTraveled:148.9065:total algorithm time: 362508 : total expanded: 5546666
+distanceTraveled:1.333333:total algorithm time: 37095 : total expanded: 3
+distanceTraveled:0A* with epsilon 1
+distanceTraveled:143.9536:total algorithm time: 255703 : total expanded: 5195558
+distanceTraveled:1.333333:total algorithm time: 7130 : total expanded: 5
+distanceTraveled:0A* with epsilon 1
+distanceTraveled:143.1994:total algorithm time: 120653 : total expanded: 5495064
+distanceTraveled:1.333333:total algorithm time: 5309 : total expanded: 3
+distanceTraveled:0A* with epsilon 1
+distanceTraveled:0A* with epsilon 1
+distanceTraveled:135.5582:total algorithm time: 42382 : total expanded: 5154153
+distanceTraveled:0A* with epsilon 1
+distanceTraveled:144.9942:total algorithm time: 54952 : total expanded: 5520643
+distanceTraveled:1.333333:total algorithm time: 11848 : total expanded: 62541
+distanceTraveled:0A* with epsilon 1
+distanceTraveled:145.1215:total algorithm time: 37795 : total expanded: 5602703
+distanceTraveled:0A* with epsilon 1
+distanceTraveled:142.4294:total algorithm time: 18443 : total expanded: 5502583
+distanceTraveled:154.5715:total algorithm time: 20869 : total expanded: 5365897
+distanceTraveled:0Theta* with epsilon 1
+distanceTraveled:201.703:total algorithm time: 6062 : total expanded: 2584690
+distanceTraveled:0Theta* with epsilon 1
+distanceTraveled:121.6742:total algorithm time: 4732 : total expanded: 2349139
+distanceTraveled:114.6457:total algorithm time: 3321 : total expanded: 1852120
+distanceTraveled:0Theta* with epsilon 1
+distanceTraveled:12.03324:total algorithm time: 4356 : total expanded: 279834
+distanceTraveled:0Theta* with epsilon 1
+distanceTraveled:0Theta* with epsilon 1
+distanceTraveled:0Theta* with epsilon 1
+distanceTraveled:0Theta* with epsilon 1, fast = False and search graph HYBRID
+distanceTraveled:0A* with epsilon 1
+distanceTraveled:138.4495:total algorithm time: 22505 : total expanded: 5440644
+distanceTraveled:0Reverse MT-D* Lite with epsilon 1 and Basic MT=False
+:total algorithm time: 0 : total expanded: 0
+distanceTraveled:153.5513:total algorithm time: 15640 : total expanded: 855742
+distanceTraveled:0Jump point A* with epsilon 1
+distanceTraveled:0Jump point A* with epsilon 1
+distanceTraveled:0Jump point A* with epsilon 1
+distanceTraveled:0Jump point A* with epsilon 1
+distanceTraveled:0Jump point A* with epsilon 1
+distanceTraveled:0Jump point A* with epsilon 1
+distanceTraveled:0Jump point A* with epsilon 1
+distanceTraveled:0Jump point A* with epsilon 1
+distanceTraveled:0Jump point A* with epsilon 1
+distanceTraveled:171.5311:total algorithm time: 18850 : total expanded: 1625036
+distanceTraveled:0Jump point A* with epsilon 1
+distanceTraveled:174.1598:total algorithm time: 18458 : total expanded: 1628723
+distanceTraveled:0Jump point A* with epsilon 1
+distanceTraveled:172.1333:total algorithm time: 24085 : total expanded: 1475883
+distanceTraveled:0Jump point A* with epsilon 1
+distanceTraveled:0Jump point A* with epsilon 1
+distanceTraveled:0Jump point A* with epsilon 1
+distanceTraveled:0A* with epsilon 1
+distanceTraveled:0Theta* with epsilon 1
+distanceTraveled:0Theta* with epsilon 1
+distanceTraveled:0Theta* with epsilon 1
+distanceTraveled:0Jump point A* with epsilon 1
+distanceTraveled:0Jump point A* with epsilon 1
+distanceTraveled:0A* with epsilon 1
+distanceTraveled:138.6074:total algorithm time: 3943 : total expanded: 5268952
+distanceTraveled:0A* with epsilon 1
+distanceTraveled:144.0318:total algorithm time: 18151 : total expanded: 5513471
+distanceTraveled:0Theta* with epsilon 1
+distanceTraveled:118.8331:total algorithm time: 19014 : total expanded: 3019526
+distanceTraveled:0Reverse MT-D* Lite with epsilon 1 and Basic MT=False
+:total algorithm time: 0 : total expanded: 0
+distanceTraveled:155.1311:total algorithm time: 11303 : total expanded: 792026
+distanceTraveled:0Jump point A* with epsilon 1
+distanceTraveled:174.8848:total algorithm time: 18079 : total expanded: 1578831
+distanceTraveled:0A* with epsilon 1 and search graph HYBRID
+distanceTraveled:108.0641:total algorithm time: 27376 : total expanded: 3949708
+distanceTraveled:0Theta* with epsilon 1, fast = True and search graph HYBRID
+distanceTraveled:114.5759:total algorithm time: 23856 : total expanded: 1886145
+distanceTraveled:0Reverse MT-D* Lite with epsilon 1 and Basic MT=False and search graph HYBRID
+:total algorithm time: 0 : total expanded: 0
+distanceTraveled:107.8513:total algorithm time: 25780 : total expanded: 192658
+distanceTraveled:0Any-angle MT-D* Lite with epsilon 1, plain mult. 0.5, Basic MT=False, fast = False and search graph HYBRID
+:total algorithm time: 0 : total expanded: 0
+distanceTraveled:159.3689:total algorithm time: 37475 : total expanded: 296606
+distanceTraveled:0distanceTraveled:0Any-angle MT-D* Lite with epsilon 1, plain mult. 0.5, Basic MT=False, fast = False and search graph HYBRID
+:total algorithm time: 0 : total expanded: 0
+distanceTraveled:0A* with epsilon 1 and search graph HYBRID
+distanceTraveled:0A* with epsilon 1 and search graph HYBRID
+distanceTraveled:0A* with epsilon 1 and search graph HYBRID
+distanceTraveled:0A* with epsilon 1 and search graph HYBRID
+distanceTraveled:0A* with epsilon 1 and search graph HYBRID
+distanceTraveled:0Theta* with epsilon 1, fast = True and search graph HYBRID
+distanceTraveled:0Theta* with epsilon 1, fast = True and search graph HYBRID
+distanceTraveled:0Theta* with epsilon 1, fast = True and search graph HYBRID
+distanceTraveled:0Theta* with epsilon 1, fast = True and search graph HYBRID
+distanceTraveled:0Theta* with epsilon 1, fast = True and search graph HYBRID
+distanceTraveled:0Theta* with epsilon 1, fast = True and search graph HYBRID
+distanceTraveled:0Theta* with epsilon 1, fast = True and search graph HYBRID
+distanceTraveled:0Theta* with epsilon 1, fast = True and search graph HYBRID
+distanceTraveled:0Theta* with epsilon 1, fast = True and search graph HYBRID
+distanceTraveled:0Theta* with epsilon 1, fast = True and search graph HYBRID
+distanceTraveled:0Theta* with epsilon 1, fast = True and search graph HYBRID
+distanceTraveled:0Reverse MT-D* Lite with epsilon 1 and Basic MT=False and search graph HYBRID
+:total algorithm time: 0 : total expanded: 0
+distanceTraveled:0Reverse MT-D* Lite with epsilon 1 and Basic MT=False and search graph HYBRID
+:total algorithm time: 0 : total expanded: 0
+distanceTraveled:0Reverse MT-D* Lite with epsilon 1 and Basic MT=False and search graph HYBRID
+:total algorithm time: 0 : total expanded: 0
+distanceTraveled:0Reverse MT-D* Lite with epsilon 1 and Basic MT=False and search graph HYBRID
+:total algorithm time: 0 : total expanded: 0
+distanceTraveled:0Reverse MT-D* Lite with epsilon 1 and Basic MT=False and search graph HYBRID
+:total algorithm time: 0 : total expanded: 0
+distanceTraveled:0Reverse MT-D* Lite with epsilon 1 and Basic MT=False and search graph HYBRID
+:total algorithm time: 0 : total expanded: 0
+distanceTraveled:0Reverse MT-D* Lite with epsilon 1 and Basic MT=False and search graph HYBRID
+:total algorithm time: 0 : total expanded: 0
+distanceTraveled:0Reverse MT-D* Lite with epsilon 1 and Basic MT=False and search graph HYBRID
+:total algorithm time: 0 : total expanded: 0
+distanceTraveled:0Reverse MT-D* Lite with epsilon 1 and Basic MT=False and search graph HYBRID
+:total algorithm time: 0 : total expanded: 0
+distanceTraveled:0Reverse MT-D* Lite with epsilon 1 and Basic MT=False and search graph HYBRID
+:total algorithm time: 0 : total expanded: 0
+distanceTraveled:0A* with epsilon 1 and search graph HYBRID
+distanceTraveled:0A* with epsilon 1 and search graph HYBRID
+distanceTraveled:0Theta* with epsilon 1, fast = True and search graph HYBRID
+distanceTraveled:0Theta* with epsilon 1, fast = True and search graph HYBRID
+distanceTraveled:0Any-angle MT-D* Lite with epsilon 1, plain mult. 0.5, Basic MT=False, fast = False and search graph HYBRID
+:total algorithm time: 0 : total expanded: 0
+distanceTraveled:0Any-angle MT-D* Lite with epsilon 1, plain mult. 0.5, Basic MT=False, fast = False and search graph HYBRID
+:total algorithm time: 0 : total expanded: 0
+distanceTraveled:0Any-angle MT-D* Lite with epsilon 1, plain mult. 0.5, Basic MT=False, fast = False and search graph HYBRID
+:total algorithm time: 0 : total expanded: 0
+distanceTraveled:0Any-angle MT-D* Lite with epsilon 1, plain mult. 0.5, Basic MT=False, fast = False and search graph HYBRID
+:total algorithm time: 0 : total expanded: 0
+distanceTraveled:0Any-angle MT-D* Lite with epsilon 1, plain mult. 0.5, Basic MT=False, fast = False and search graph HYBRID
+:total algorithm time: 0 : total expanded: 0
+distanceTraveled:0Any-angle MT-D* Lite with epsilon 1, plain mult. 0.5, Basic MT=False, fast = False and search graph HYBRID
+:total algorithm time: 0 : total expanded: 0
+distanceTraveled:0A* with epsilon 1
+distanceTraveled:0A* with epsilon 1
+distanceTraveled:0A* with epsilon 1
+distanceTraveled:0Theta* with epsilon 1
+distanceTraveled:0Theta* with epsilon 1
+distanceTraveled:11.12358:total algorithm time: 4166 : total expanded: 345169
+distanceTraveled:0Theta* with epsilon 1
+distanceTraveled:0Reverse MT-D* Lite with epsilon 1 and Basic MT=False
+:total algorithm time: 0 : total expanded: 0
+distanceTraveled:0Reverse MT-D* Lite with epsilon 1 and Basic MT=False
+:total algorithm time: 0 : total expanded: 0
+distanceTraveled:0Reverse MT-D* Lite with epsilon 1 and Basic MT=False
+:total algorithm time: 0 : total expanded: 0
+distanceTraveled:0Jump point A* with epsilon 1
+distanceTraveled:0Jump point A* with epsilon 1
+distanceTraveled:0Jump point A* with epsilon 1
+distanceTraveled:0A* with epsilon 1 and search graph HYBRID
+distanceTraveled:0A* with epsilon 1 and search graph HYBRID
+distanceTraveled:0A* with epsilon 1 and search graph HYBRID
+distanceTraveled:0Theta* with epsilon 1, fast = True and search graph HYBRID
+distanceTraveled:0Reverse MT-D* Lite with epsilon 1 and Basic MT=False and search graph HYBRID
+:total algorithm time: 0 : total expanded: 0
+distanceTraveled:0Any-angle MT-D* Lite with epsilon 1, plain mult. 0.5, Basic MT=False, fast = False and search graph HYBRID
+:total algorithm time: 0 : total expanded: 0
+distanceTraveled:0Any-angle MT-D* Lite with epsilon 1, plain mult. 0.5, Basic MT=False, fast = False and search graph HYBRID
+:total algorithm time: 0 : total expanded: 0
+distanceTraveled:0A* with epsilon 1 and search graph HYBRID
+distanceTraveled:0Jump point A* with epsilon 1
+distanceTraveled:0Jump point A* with epsilon 1
+distanceTraveled:0Reverse MT-D* Lite with epsilon 1 and Basic MT=False
+:total algorithm time: 0 : total expanded: 0
+distanceTraveled:0Reverse MT-D* Lite with epsilon 1 and Basic MT=False
+:total algorithm time: 0 : total expanded: 0
+distanceTraveled:0Theta* with epsilon 1
+distanceTraveled:0Theta* with epsilon 1
+distanceTraveled:0A* with epsilon 1
+distanceTraveled:0A* with epsilon 1
