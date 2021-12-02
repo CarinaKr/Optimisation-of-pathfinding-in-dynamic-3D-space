@@ -9,7 +9,7 @@ In addition to a written paper the thesis includes a project, where the pathfind
 For a video demonstrating the results of the implemented pathfinding algorithms and search graphs see: https://youtu.be/RUUsUAHiFQA <br/>
 For a quick start guide on how to configure and use the developed pathfinding system in Unity see: https://youtu.be/Z96w9YHGilk 
 
-For a life demonstration of the pathfinding system implemented in the scope of this thesis, download the "Pathfinding3D" folder and open the scene "Pathfinding" in the Unity project or import the package "pathfindingInDynamic3DSpace" into Unity and open the scene "Pathfinding". 
+For a life demonstration of the pathfinding system implemented in the scope of this thesis, download the "Pathfinding3D" folder and open the scene "Pathfinding" in the Unity project.
 
 Enable the Burst compiler and turn off the safety checks.
 
