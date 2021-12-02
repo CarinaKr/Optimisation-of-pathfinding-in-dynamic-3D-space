@@ -6,7 +6,7 @@ developed at the University of Applied Sciences Hamburg.
 
 In addition to a written paper the thesis includes a project, where the pathfinding algorithms A*, JPS, Theta*, (Basic) MT-D* Lite, and AAMT-D* Lite were implemented in an abstract test environment using a cell grid search graph and the hybrid search graph introduced in the thesis. For this project the game engine Unity 2020.3.3f1 (LTS) was used.
 
-For a video demonstrating the results of the implemented pathfinding algorithms and search graphs see: https://youtu.be/RUUsUAHiFQA
+For a video demonstrating the results of the implemented pathfinding algorithms and search graphs see: https://youtu.be/RUUsUAHiFQA 
 For a quick start guide on how to configure and use the developed pathfinding system in Unity see: https://youtu.be/Z96w9YHGilk 
 
 For a life demonstration of the pathfinding system implemented in the scope of this thesis, download the "Pathfinding3D" folder and open the scene "Pathfinding" in the Unity project or import the package "pathfindingInDynamic3DSpace" into Unity and open the scene "Pathfinding". 
