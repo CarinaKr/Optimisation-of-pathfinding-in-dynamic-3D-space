@@ -1,14 +1,21 @@
 This repository contains the results of the master thesis:
 
-### "Optimisation of pathfinding algorithms in a dynamic 3D space" ###
+### "Optimisation of pathfinding in a dynamic 3D space" ###
 
 developed at the University of Applied Sciences Hamburg.
 
 In addition to a written paper the thesis includes a project, where the pathfinding algorithms A*, JPS, Theta*, (Basic) MT-D* Lite, and AAMT-D* Lite were implemented in an abstract test environment using a cell grid search graph and the hybrid search graph introduced in the thesis. For this project the game engine Unity 2020.3.3f1 (LTS) was used.
 
-A video demonstrating the most important pathfinding algorithms and the hybrid search graph implemented in the scope of this thesis, can be seen here: 
+For a video demonstrating the results of the implemented pathfinding algorithms and search graphs see: https://youtu.be/RUUsUAHiFQA
+For a quick start guide on how to configure and use the developed pathfinding system in Unity see: https://youtu.be/Z96w9YHGilk 
 
-For a life demonstration of the pathfinding system implemented in the scope of this thesis, download the "Pathfinding3D" folder and open the scene "Pathfinding" in the Unity project or import the package "pathfindingAlgorithm" into Unity and open the scene "Pathfinding". 
+For a life demonstration of the pathfinding system implemented in the scope of this thesis, download the "Pathfinding3D" folder and open the scene "Pathfinding" in the Unity project or import the package "pathfindingInDynamic3DSpace" into Unity and open the scene "Pathfinding". 
+
+Enable the Burst compiler and turn off the safety checks.
+
+<p align="center">
+  <img width="460" src="https://github.com/CarinaKr/Optimisation-of-pathfinding-in-dynamic-3D-space/blob/main/readmeImages/burstCompiler.png">
+</p>
 
 You can choose between a cell grid and the hybrid search graph as the "Search Graph Type"-field of the "SearchGraphSelector"-component of the "SearchGraphManager"-object:
 
