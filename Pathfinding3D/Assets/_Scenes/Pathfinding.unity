@@ -5245,7 +5245,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 114897324292962966, guid: fc4978ab839863a4aa289769de8b61e8, type: 3}
       propertyPath: searchGraphType
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7807556861944905971, guid: fc4978ab839863a4aa289769de8b61e8, type: 3}
       propertyPath: visualizeMode
@@ -9438,11 +9438,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 114133159248536784, guid: 55cd184c6c10ecf49a2282777c714164, type: 3}
       propertyPath: pathfindingMethodHybrid
-      value: 3
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 114133159248536784, guid: 55cd184c6c10ecf49a2282777c714164, type: 3}
       propertyPath: pathfindingMethodCellGrid
-      value: 3
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 114133159248536784, guid: 55cd184c6c10ecf49a2282777c714164, type: 3}
       propertyPath: pathfinderSetup.StopAtRunCount
