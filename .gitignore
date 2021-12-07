@@ -34,11 +34,4 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
-TimeBubble/.idea/
-TimeBubble/Assets/Plugins/Editor/JetBrains/
-TimeBubble/Assets/Plugins/Editor/JetBrains.meta
-TimeBubble/Assets/Plugins/Sirenix/Demos/
-TimeBubble/Assets/Plugins/Sirenix/Demos.meta
-TimeBubble/Assets/Plugins/Sirenix/Odin Inspector/Config/Resources/Sirenix/GlobalSerializationConfig.asset
-TimeBubble/Assets/Plugins/Sirenix/Odin Inspector/Config/Resources/Sirenix/GlobalSerializationConfig.asset.meta
 *.log
